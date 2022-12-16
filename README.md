@@ -1,11 +1,10 @@
-<h1> PONG </h1>
+# PONG
 
-<h2> Apresentação </h2>
+<h1> Apresentação </h1>
 
-Meu primeiro projeto em javascript realizado na formação Iniciante em Programação na Alura
+<p>Meu primeiro projeto em javascript realizado na formação Iniciante em Programação na Alura.</p>
 
-<h3> Status do Projeto </h3>
+<h2> Status do Projeto </h2>
 
-Apesar de já estar finalizado, estou usando esse projeto para desenvolver e treinar minhas habilidades no uso do git e do github.
+<p>Apesar de já estar finalizado, estou usando esse projeto para desenvolver e treinar minhas habilidades no uso do git e do github.</p>
 
-<h4> Descrição do Projeto </h4>
