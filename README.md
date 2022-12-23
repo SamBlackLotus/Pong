@@ -6,7 +6,7 @@
 
 <h2> Status do Projeto </h2>
 
-<p align="center">
+<p>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
