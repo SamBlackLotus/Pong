@@ -5,4 +5,24 @@ html, body {
   canvas {
     display: block;
   }
+
+  #principal {
+    background: linear-gradient(100deg, #4cd35e 44.9%, #ffffff 45%) no-repeat fixed ;
+  }
   
+  .principal {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .new-game-button {
+    text-align: center;
+    font-size: 22px;
+    padding: 2px;
+  }
+
+  .selection-button {
+    font-size: 20px;
+    font-weight: bold;
+  }
