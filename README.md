@@ -10,5 +10,14 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-<p>Apesar de já estar finalizado, estou usando esse projeto para desenvolver e treinar minhas habilidades no uso do git e do github.</p>
+<p>O jogo em si já está finalizado e o javascript concluído, pretendo ainda desenvolver uma página em html com apresentação e o jogo funcionando.</p>
 
+# 📁 Acesso ao projeto
+
+<h3> 
+    :construction:  Projeto em construção  :construction:
+</h3>
+
+# 🛠️ Abrir e rodar o projeto
+
+No momento para ver o projeto funcionando é necessário baixar todos os arquivos e abrir no p5 editor.
