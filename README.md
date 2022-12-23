@@ -14,10 +14,8 @@
 
 # Acesso ao projeto
 
-<h3> 
-    
-    :construction:  Projeto em construção  :construction:
-    
+<h3>     
+    :construction:  Projeto em construção  :construction:  
 </h3>
 
 # Abrir e rodar o projeto
